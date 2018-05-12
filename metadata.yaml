@@ -1,0 +1,46 @@
+_repo: Book-of-Monsters_40035
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40035-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Fairchild, David
+    aliases:
+    - Fairchild, David Grandison
+    - Fairchild, David G. (David Grandison)
+    - Fairchild, D. G. (David Grandison)
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '40377'
+    url: http://www.gutenberg.org/2009/agents/40377
+    wikipedia: http://en.wikipedia.org/wiki/David_Fairchild
+  - agent_name: Fairchild, Marian
+    aliases:
+    - Bell, Marian Hubbard
+    - Fairchild, Marian Hubbard Bell
+    - Fairchild, Mrs. David G.
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '40378'
+    url: http://www.gutenberg.org/2009/agents/40378
+description: ''
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40035'
+  lccn: '14016725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiders'
+- !lcsh 'Insects'
+- !lcc 'QL'
+- !lcsh 'Myriapoda'
+tableOfContents: The spider world -- The insect world -- The world of myriapods and
+  a single land crustacean.
+title: "Book of Monsters\r\nPortraits and Biographies of a Few of the Inhabitants\
+  \ of Woodland and Meadow"
+url: http://www.gutenberg.org/ebooks/40035
